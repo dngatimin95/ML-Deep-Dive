@@ -1,4 +1,4 @@
-# ML-Deep-Dive
+# ML Deep Dive
 Machine Learning is a field that is rapidly expanding within recent years and as such, there are millions of things to learn about. I wanted to learn more about the scikit-learn package and have a deeper understanding on how to implement ML algorithms for future projects. I also had quite an interest in sentiment analysis and emotion speech analysis, both of which had hundreds of tutorials online. Thus, I decided to start with these areas while keeping track of my progress, just in case I need them in the future. 
 
 ## What is this repo about?
